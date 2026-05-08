@@ -32,11 +32,7 @@ with st.sidebar:
     st.header("⚙️ Settings")
     
     # API Key input
-    groq_api_key = st.text_input(
-        "Groq API Key",
-        type="password",
-        placeholder="Enter your Groq API key"
-    )
+ groq_api_key = st.secrets["GROQ_API_KEY"]
     
     st.divider()
     
@@ -74,8 +70,7 @@ if "processed" not in st.session_state:
 # PROCESS DOCUMENTS
 # ─────────────────────────────────────────
 if process_btn:
-    if not groq_api_key:
-        st.error("⚠️ Please enter your Groq API key first!")
+   
     elif not uploaded_files:
         st.error("⚠️ Please upload at least one PDF!")
     else:
