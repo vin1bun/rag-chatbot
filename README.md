@@ -1,6 +1,4 @@
-Here's your complete GitHub README →
 
----
 
 ```markdown
 # 🧠 AskVineet AI — RAG Chatbot
