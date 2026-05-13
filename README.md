@@ -1,13 +1,14 @@
 
-
-```markdown
 # 🧠 AskVineet AI — RAG Chatbot
 
-[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://rag-chatbot-nzuynzjvn4c2iwj6tfm9dr.streamlit.app/)
+> *Chat with any document, instantly*
+
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](YOUR_STREAMLIT_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-vin1bun-181717?style=for-the-badge&logo=github)](https://github.com/vin1bun)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vineet%20Prakash-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vineetprakash03)
 
-> *Chat with any document, instantly*
+---
+
 
 ---
 
