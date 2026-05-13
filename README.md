@@ -1,3 +1,7 @@
+Here's your complete GitHub README →
+
+---
+
 ```markdown
 # 🧠 AskVineet AI — RAG Chatbot
 
@@ -149,9 +153,7 @@ Kept only the last 3 exchanges in context to balance conversation memory with to
 
 > *"AI can build, but only humans can innovate."*
 
----
-
-⭐ If you found this useful, consider giving it a star!
-```
 
 ---
+
+Copy this entire block and paste it directly into your GitHub README ✅
